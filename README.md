@@ -17,24 +17,14 @@ Welcome to Trinetra, a sophisticated fraud detection system combining machine le
 
 - **User-Friendly Dashboard:** Provides a dynamic dashboard (Power BI) for visualizing alerts and transaction details.
 
-Certainly! Here's a sample GitHub repository README for your fraud detection project:
+## Technologies Used
 
-Fraud Detection System
-Overview
-This repository hosts the codebase for a robust fraud detection system leveraging machine learning and blockchain technology. The system is designed to detect and prevent fraudulent activities in financial transactions efficiently.
+- **Python:** Programming language used for backend development and machine learning algorithms.
+  
+- **Scikit-learn:** Machine learning library for building and training models.
 
-Key Features
-Machine Learning Models: Utilizes advanced ML algorithms for analyzing transaction data and identifying anomalies.
+- **TensorFlow:** Framework for deep learning models and neural networks.
 
-Blockchain Integration: Implements blockchain for secure and immutable transaction recording, ensuring transparency and data integrity.
+- **Ethereum Blockchain:** Blockchain platform used for secure and transparent transaction recording.
 
-Real-time Monitoring: Continuously monitors transactions to detect suspicious activities promptly.
-
-User-Friendly Dashboard: Provides a dynamic dashboard (Power BI) for visualizing alerts and transaction details.
-
-Technologies Used
-Python
-Scikit-learn
-TensorFlow
-Ethereum Blockchain
-Power BI
+- **Power BI:** Business intelligence tool for creating interactive dashboards and reports.
